@@ -1,0 +1,17 @@
+{
+  "name": "needy",
+  "title": "needy",
+  "artist": "Ariana Grande",
+  "engine": {
+    "name": "superstar"
+  },
+  "bgm": {
+    "name": "needy"
+  },
+  "illustration": {
+    "name": "needy"
+  },
+  "data": {
+    "json": "data.json"
+  }
+}
